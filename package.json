@@ -49,5 +49,8 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "nuka-carousel": "^4.7.0"
+  }
 }

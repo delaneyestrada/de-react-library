@@ -1,10 +1,9 @@
 import React from 'react'
-
-import { ExampleComponent } from 'de-react-library'
 import 'de-react-library/dist/index.css'
+import InstagramCarousel from 'de-react-library'
 
 const App = () => {
-  return <ExampleComponent text="Create React Library Example 😄" />
+  return <InstagramCarousel />
 }
 
 export default App
